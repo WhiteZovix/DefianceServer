@@ -1,0 +1,26 @@
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\bin\Debug\Server Microvolts Surge.exe.config
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\bin\Debug\Server Microvolts Surge.exe
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\bin\Debug\Server Microvolts Surge.pdb
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.csprojAssemblyReference.cache
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.csproj.CoreCompileInputs.cache
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.exe
+C:\Users\Loks\source\repos\Server Microvolts Surge\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.pdb
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\obj\Debug\Brawl Buster New.exe.config
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.csproj.CoreCompileInputs.cache
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\Brawl Buster New.exe.config
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\Brawl Buster New.exe
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\Brawl Buster New.pdb
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Web.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\Google.Protobuf.dll
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.xml
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Web.xml
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\obj\Debug\Server Microvolts Surge.csproj.CopyComplete
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\obj\Debug\Brawl Buster New.exe
+C:\Users\Robot BFH 1\Desktop\Server Brawl Busters\Server Microvolts Surge\obj\Debug\Brawl Buster New.pdb

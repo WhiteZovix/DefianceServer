@@ -1,0 +1,32 @@
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.xml
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\MySql.Web.xml
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.csproj.AssemblyReference.cache
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.csproj.CopyComplete
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\DefianceServer.exe.config
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\DefianceServer.exe
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\bin\Debug\DefianceServer.pdb
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.exe.config
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.exe
+C:\Users\Alexis\Downloads\Emulator-master\Server Brawl Busters\Server Microvolts Surge\obj\Debug\DefianceServer.pdb
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\DefianceServer.exe.config
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\DefianceServer.exe
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\DefianceServer.pdb
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\Google.Protobuf.dll
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\MySql.Data.xml
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Defiance\Server Gamigo\DefianceServer\bin\Debug\MySql.Web.xml
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.csproj.AssemblyReference.cache
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.csproj.SuggestedBindingRedirects.cache
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.exe.config
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.csproj.CoreCompileInputs.cache
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.csproj.CopyComplete
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.exe
+E:\Defiance\Server Gamigo\DefianceServer\obj\Debug\DefianceServer.pdb
